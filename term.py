@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+import os
 from datetime import datetime, timedelta
 
 holidays = [
@@ -66,4 +67,4 @@ for tradeDay in range(startDay, endDay + 1):
         df.columns = [key for key in keys]
         df.index.name = tradeDate
         print(conv_date)
-        df.to_excel(f'C:/Users/waliszewski_a/Documents/pyData/FW/{conv_date}_FW.xlsx')
+        df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/FW/{conv_date}_FW.xlsx")

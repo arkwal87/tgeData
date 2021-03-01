@@ -1,3 +1,4 @@
+import os
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -32,4 +33,4 @@ for tradeDay in range(startDay, endDay + 1):
     df.index.name = dateDelivery
     df.columns = [i for i in range(1, 25)]
     print(dateDelivery)
-    df.to_excel(f'C:/Users/waliszewski_a/Documents/pyData/tgeBase/{dateDelivery}_tgeBase.xlsx')
+    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/tgeBase/{dateDelivery}_tgeBase.xlsx")
