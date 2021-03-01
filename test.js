@@ -1,0 +1,1042 @@
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: navigate" ^
+  -H "Sec-Fetch-User: ?1" ^
+  -H "Sec-Fetch-Dest: document" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/css/aui.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/html/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31343437393433303930303030" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/menu-portlet/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/vui-toolbar.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.structure.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.theme.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/visioneo-core.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/visioneo-custom.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/jqpagination.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/vui-pagination.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/notifications-portlet/notifications/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/custom-newsletter-encrypted-portlet/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/html/js/barebone.jsp?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d6526636f6c6f72536368656d6549643d3031266d696e6966696572547970653d6a73266d696e696669657242756e646c6549643d6a6176617363726970742e62617265626f6e652e66696c6573266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/vui-jquery.4.0.0.0.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/moment.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/head.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/vui-pagination.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/js/jquery-2.2.2.min.js" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/js/jquery.nicescroll.js" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/js/theme.js" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/js/jquery.nav.js" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/image/layout_set_logo?safeargs=696d675f69643d323230383232313226743d31363039393938353432323337" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/pse/bip.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/pse/lang-pl.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/pse/lang-en.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe?safeargs=705f705f69643d566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c26705f705f6c6966656379636c653d3226705f705f73746174653d6e6f726d616c26705f705f6d6f64653d7669657726705f705f7265736f757263655f69643d696d61676555524c26705f705f63616368656162696c6974793d63616368654c6576656c46756c6c26705f705f636f6c5f69643d636f6c756d6e2d3226705f705f636f6c5f706f733d3126705f705f636f6c5f636f756e743d33265f566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c5f7265736f7572636549443d696d61676555524c267265736f7572636549443d696d61676555524c265f5f626173653d7468756d626e61696c265f5f706174683d504c5f50445f474f5f42494c414e532d66696c65737974656d2e706e67" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/social/youtube_logo.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/social/twitter_logo.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/menu-portlet/js/main.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/vui-toolbar.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/vui-jquery-ui.4.0.0.0.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/vui-plugins.4.0.0.0.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/org.visioneo.core.4.0.0.0.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/jszip.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/visioneo-custom.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/FileSaver.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/js/jqpagination.min.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/notifications-portlet/notifications/js/main.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/custom-newsletter-encrypted-portlet/js/main.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/js/main.js?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/js/lightbox.min.js" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/js/flowplayer.min.js" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/css/aui/alloy-font-awesome/font/fontawesome-alloy.woff" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/aui.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/fonts/nucleo-outline.woff2" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/pse/search-icon.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/cd-icons.svg" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Regular/Roboto-Regular.woff2?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Thin/Roboto-Thin.woff2?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Bold/Roboto-Bold.woff2?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/progress_bar/loading_animation.gif" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f636f6c6f722d626173652f636f6c6f722d626173652d6d696e2e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/lightboxbg.gif" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/prev.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/next.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/loading.gif" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/pse-intErnet-theme/images/close.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe?safeargs=705f705f69643d566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c26705f705f6c6966656379636c653d3226705f705f73746174653d6e6f726d616c26705f705f6d6f64653d7669657726705f705f7265736f757263655f69643d67656e6572696355524c26705f705f63616368656162696c6974793d63616368654c6576656c5061676526705f705f636f6c5f69643d636f6c756d6e2d3226705f705f636f6c5f706f733d3126705f705f636f6c5f636f756e743d33265f566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c5f5f5f766973696f5f706172616d733d67656e65726963^&resourceID=fileURL^&__path=/resources/css/runtime/vui-timepicker.css" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe?safeargs=705f705f69643d566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c26705f705f6c6966656379636c653d3226705f705f73746174653d6e6f726d616c26705f705f6d6f64653d7669657726705f705f7265736f757263655f69643d67656e6572696355524c26705f705f63616368656162696c6974793d63616368654c6576656c5061676526705f705f636f6c5f69643d636f6c756d6e2d3226705f705f636f6c5f706f733d3126705f705f636f6c5f636f756e743d33265f566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c5f5f5f766973696f5f706172616d733d67656e65726963^&resourceID=fileURL^&__path=/resources/js/vui-timepicker.js" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/images/ui-bg_inset-hard_75_999999_1x100.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.theme.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/images/ui-bg_glass_60_eeeeee_1x400.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.theme.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/images/bug.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Thin/Roboto-Thin.woff?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Regular/Roboto-Regular.woff?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Bold/Roboto-Bold.woff?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe?safeargs=705f705f69643d566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c26705f705f6c6966656379636c653d3226705f705f73746174653d6e6f726d616c26705f705f6d6f64653d7669657726705f705f7265736f757263655f69643d67656e6572696355524c26705f705f63616368656162696c6974793d63616368654c6576656c5061676526705f705f636f6c5f69643d636f6c756d6e2d3226705f705f636f6c5f706f733d3126705f705f636f6c5f636f756e743d33265f566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c5f5f5f766973696f5f706172616d733d67656e65726963" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --data-raw "safeargs_data=5f5f7265706f72743d504c5f50445f474f5f42494c414e53265f5f63616c6c547970653d7026646174615f6f643d323032312d30312d303726646174615f646f3d323032312d30322d3037265f737667737570706f72743d74727565267265736f7572636549443d646f63756d656e7455524c" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f7769646765742d626173652f6173736574732f736b696e732f73616d2f7769646765742d626173652e637373262f68746d6c2f6a732f6175692f7769646765742d737461636b2f6173736574732f736b696e732f73616d2f7769646765742d737461636b2e637373" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/images/ui-bg_glass_35_dddddd_1x400.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.theme.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "data:image/gif;base64,R0lGODlhKAAoAIABAAAAAP///yH/C05FVFNDQVBFMi4wAwEAAAAh+QQJAQABACwAAAAAKAAoAAACkYwNqXrdC52DS06a7MFZI+4FHBCKoDeWKXqymPqGqxvJrXZbMx7Ttc+w9XgU2FB3lOyQRWET2IFGiU9m1frDVpxZZc6bfHwv4c1YXP6k1Vdy292Fb6UkuvFtXpvWSzA+HycXJHUXiGYIiMg2R6W459gnWGfHNdjIqDWVqemH2ekpObkpOlppWUqZiqr6edqqWQAAIfkECQEAAQAsAAAAACgAKAAAApSMgZnGfaqcg1E2uuzDmmHUBR8Qil95hiPKqWn3aqtLsS18y7G1SzNeowWBENtQd+T1JktP05nzPTdJZlR6vUxNWWjV+vUWhWNkWFwxl9VpZRedYcflIOLafaa28XdsH/ynlcc1uPVDZxQIR0K25+cICCmoqCe5mGhZOfeYSUh5yJcJyrkZWWpaR8doJ2o4NYq62lAAACH5BAkBAAEALAAAAAAoACgAAAKVDI4Yy22ZnINRNqosw0Bv7i1gyHUkFj7oSaWlu3ovC8GxNso5fluz3qLVhBVeT/Lz7ZTHyxL5dDalQWPVOsQWtRnuwXaFTj9jVVh8pma9JjZ4zYSj5ZOyma7uuolffh+IR5aW97cHuBUXKGKXlKjn+DiHWMcYJah4N0lYCMlJOXipGRr5qdgoSTrqWSq6WFl2ypoaUAAAIfkECQEAAQAsAAAAACgAKAAAApaEb6HLgd/iO7FNWtcFWe+ufODGjRfoiJ2akShbueb0wtI50zm02pbvwfWEMWBQ1zKGlLIhskiEPm9R6vRXxV4ZzWT2yHOGpWMyorblKlNp8HmHEb/lCXjcW7bmtXP8Xt229OVWR1fod2eWqNfHuMjXCPkIGNileOiImVmCOEmoSfn3yXlJWmoHGhqp6ilYuWYpmTqKUgAAIfkECQEAAQAsAAAAACgAKAAAApiEH6kb58biQ3FNWtMFWW3eNVcojuFGfqnZqSebuS06w5V80/X02pKe8zFwP6EFWOT1lDFk8rGERh1TTNOocQ61Hm4Xm2VexUHpzjymViHrFbiELsefVrn6XKfnt2Q9G/+Xdie499XHd2g4h7ioOGhXGJboGAnXSBnoBwKYyfioubZJ2Hn0RuRZaflZOil56Zp6iioKSXpUAAAh+QQJAQABACwAAAAAKAAoAAACkoQRqRvnxuI7kU1a1UU5bd5tnSeOZXhmn5lWK3qNTWvRdQxP8qvaC+/yaYQzXO7BMvaUEmJRd3TsiMAgswmNYrSgZdYrTX6tSHGZO73ezuAw2uxuQ+BbeZfMxsexY35+/Qe4J1inV0g4x3WHuMhIl2jXOKT2Q+VU5fgoSUI52VfZyfkJGkha6jmY+aaYdirq+lQAACH5BAkBAAEALAAAAAAoACgAAAKWBIKpYe0L3YNKToqswUlvznigd4wiR4KhZrKt9Upqip61i9E3vMvxRdHlbEFiEXfk9YARYxOZZD6VQ2pUunBmtRXo1Lf8hMVVcNl8JafV38aM2/Fu5V16Bn63r6xt97j09+MXSFi4BniGFae3hzbH9+hYBzkpuUh5aZmHuanZOZgIuvbGiNeomCnaxxap2upaCZsq+1kAACH5BAkBAAEALAAAAAAoACgAAAKXjI8By5zf4kOxTVrXNVlv1X0d8IGZGKLnNpYtm8Lr9cqVeuOSvfOW79D9aDHizNhDJidFZhNydEahOaDH6nomtJjp1tutKoNWkvA6JqfRVLHU/QUfau9l2x7G54d1fl995xcIGAdXqMfBNadoYrhH+Mg2KBlpVpbluCiXmMnZ2Sh4GBqJ+ckIOqqJ6LmKSllZmsoq6wpQAAAh+QQJAQABACwAAAAAKAAoAAAClYx/oLvoxuJDkU1a1YUZbJ59nSd2ZXhWqbRa2/gF8Gu2DY3iqs7yrq+xBYEkYvFSM8aSSObE+ZgRl1BHFZNr7pRCavZ5BW2142hY3AN/zWtsmf12p9XxxFl2lpLn1rseztfXZjdIWIf2s5dItwjYKBgo9yg5pHgzJXTEeGlZuenpyPmpGQoKOWkYmSpaSnqKileI2FAAACH5BAkBAAEALAAAAAAoACgAAAKVjB+gu+jG4kORTVrVhRlsnn2dJ3ZleFaptFrb+CXmO9OozeL5VfP99HvAWhpiUdcwkpBH3825AwYdU8xTqlLGhtCosArKMpvfa1mMRae9VvWZfeB2XfPkeLmm18lUcBj+p5dnN8jXZ3YIGEhYuOUn45aoCDkp16hl5IjYJvjWKcnoGQpqyPlpOhr3aElaqrq56Bq7VAAAOw==" ^
+  -H "Referer: " ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/images/ui-icons_70b2e1_256x240.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.theme.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Thin/Roboto-Thin.ttf?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Regular/Roboto-Regular.ttf?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/fonts/Bold/Roboto-Bold.ttf?safeargs=763d312e312e30" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: font" ^
+  -H "Referer: https://www.pse.pl/pse-intErnet-theme/css/main.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31353131373734333434303030" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f6573636170652f6573636170652d6d696e2e6a73262f68746d6c2f6a732f6175692f7472616e736974696f6e2f7472616e736974696f6e2d6d696e2e6a73262f68746d6c2f6a732f6175692f626173652d636f72652f626173652d636f72652d6d696e2e6a73262f68746d6c2f6a732f6175692f626173652d6f627365727661626c652f626173652d6f627365727661626c652d6d696e2e6a73262f68746d6c2f6a732f6175692f626173652d6275696c642f626173652d6275696c642d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d6175746f686964652f7769646765742d6175746f686964652d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d706f736974696f6e2f7769646765742d706f736974696f6e2d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d706f736974696f6e2d616c69676e2f7769646765742d706f736974696f6e2d616c69676e2d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d706f736974696f6e2d636f6e73747261696e2f7769646765742d706f736974696f6e2d636f6e73747261696e2d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d737461636b2f7769646765742d737461636b2d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d7374646d6f642f7769646765742d7374646d6f642d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d7769646765742d637373636c6173732f6175692d7769646765742d637373636c6173732d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d7769646765742d746f67676c652f6175692d7769646765742d746f67676c652d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d7769646765742d747269676765722f6175692d7769646765742d747269676765722d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d7769646765742d706f736974696f6e2d616c69676e2d73756767657374696f6e2f6175692d7769646765742d706f736974696f6e2d616c69676e2d73756767657374696f6e2d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d746f6f6c7469702d626173652f6175692d746f6f6c7469702d626173652d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d746f6f6c7469702d64656c65676174652f6175692d746f6f6c7469702d64656c65676174652d6d696e2e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f6576656e742d746f7563682f6576656e742d746f7563682d6d696e2e6a73262f68746d6c2f6a732f6175692f6576656e742d6d6f76652f6576656e742d6d6f76652d6d696e2e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f637373627574746f6e2f637373627574746f6e2d6d696e2e637373262f68746d6c2f6a732f6175692f7769646765742d6d6f64616c6974792f6173736574732f736b696e732f73616d2f7769646765742d6d6f64616c6974792e637373262f68746d6c2f6a732f6175692f726573697a652d626173652f6173736574732f736b696e732f73616d2f726573697a652d626173652e637373" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: text/css,*/*;q=0.1" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: style" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f6175692d6f7665726c61792d626173652d646570726563617465642f6175692d6f7665726c61792d626173652d646570726563617465642d6d696e2e6a73262f68746d6c2f6a732f6175692f6173796e632d71756575652f6173796e632d71756575652d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d70617273652d636f6e74656e742f6175692d70617273652d636f6e74656e742d6d696e2e6a73262f68746d6c2f6a732f6175692f7175657279737472696e672d737472696e676966792f7175657279737472696e672d737472696e676966792d6d696e2e6a73262f68746d6c2f6a732f6175692f636f6f6b69652f636f6f6b69652d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d696f2d726571756573742f6175692d696f2d726571756573742d6d696e2e6a73262f68746d6c2f6a732f6c6966657261792f73657373696f6e2e6a73262f68746d6c2f6a732f6c6966657261792f616a61785f73657373696f6e2e6a73262f68746d6c2f6a732f6175692f6175692d6f7665726c61792d6d61736b2d646570726563617465642f6175692d6f7665726c61792d6d61736b2d646570726563617465642d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d6c6f6164696e672d6d61736b2d646570726563617465642f6175692d6c6f6164696e672d6d61736b2d646570726563617465642d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d696f2d706c7567696e2d646570726563617465642f6175692d696f2d706c7567696e2d646570726563617465642d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d6469616c6f672d696672616d652d646570726563617465642f6175692d6469616c6f672d696672616d652d646570726563617465642d6d696e2e6a73262f68746d6c2f6a732f6175692f627574746f6e2d636f72652f627574746f6e2d636f72652d6d696e2e6a73262f68746d6c2f6a732f6175692f627574746f6e2d706c7567696e2f627574746f6e2d706c7567696e2d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d627574746f6e732f7769646765742d627574746f6e732d6d696e2e6a73262f68746d6c2f6a732f6175692f7769646765742d6d6f64616c6974792f7769646765742d6d6f64616c6974792d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d64646d2d626173652f64642d64646d2d626173652d6d696e2e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f64642d647261672f64642d647261672d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d706c7567696e2f64642d706c7567696e2d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d636f6e73747261696e2f64642d636f6e73747261696e2d6d696e2e6a73262f68746d6c2f6a732f6175692f6576656e742d666c69636b2f6576656e742d666c69636b2d6d696e2e6a73262f68746d6c2f6a732f6175692f6576656e742d76616c75656368616e67652f6576656e742d76616c75656368616e67652d6d696e2e6a73262f68746d6c2f6a732f6175692f6576656e742d7461702f6576656e742d7461702d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d64646d2f64642d64646d2d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d64646d2d64726f702f64642d64646d2d64726f702d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d64726f702f64642d64726f702d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d64726f702d706c7567696e2f64642d64726f702d706c7567696e2d6d696e2e6a73262f68746d6c2f6a732f6175692f64642d64656c65676174652f64642d64656c65676174652d6d696e2e6a73262f68746d6c2f6a732f6175692f726573697a652d626173652f726573697a652d626173652d6d696e2e6a73262f68746d6c2f6a732f6175692f726573697a652d706c7567696e2f726573697a652d706c7567696e2d6d696e2e6a73262f68746d6c2f6a732f6175692f627574746f6e2f627574746f6e2d6d696e2e6a73262f68746d6c2f6a732f6175692f627574746f6e2d67726f75702f627574746f6e2d67726f75702d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d627574746f6e2d636f72652f6175692d627574746f6e2d636f72652d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d746f6f6c6261722f6175692d746f6f6c6261722d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d7769646765742d746f6f6c626172732f6175692d7769646765742d746f6f6c626172732d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d6d6f64616c2f6175692d6d6f64616c2d6d696e2e6a73262f68746d6c2f6a732f6c6966657261792f7769646765745f7a696e6465782e6a73262f68746d6c2f6a732f6c6966657261792f7574696c5f77696e646f772e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/html/js/liferay/available_languages.jsp?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d6526636f6c6f72536368656d6549643d3031266d696e6966696572547970653d6a73266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6c6966657261792f6c616e67756167652e6a73262f68746d6c2f6a732f6c6966657261792f73746f72652e6a73262f68746d6c2f6a732f6c6966657261792f6d656e755f746f67676c652e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; LFR_SESSION_STATE_20159=1610004213941; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6c6966657261792f6875646372756d62732e6a73262f68746d6c2f6a732f6175692f676573747572652d73696d756c6174652f676573747572652d73696d756c6174652d6d696e2e6a73262f68746d6c2f6a732f6c6966657261792f6e617669676174696f6e5f696e746572616374696f6e2e6a73262f68746d6c2f6a732f6c6966657261792f706f72746c65745f75726c2e6a73262f68746d6c2f6a732f6c6966657261792f7369676e5f696e5f6d6f64616c2e6a73262f68746d6c2f6a732f6175692f616e696d2d626173652f616e696d2d626173652d6d696e2e6a73262f68746d6c2f6a732f6175692f616e696d2d636f6c6f722f616e696d2d636f6c6f722d6d696e2e6a73262f68746d6c2f6a732f6175692f616e696d2d78792f616e696d2d78792d6d696e2e6a73262f68746d6c2f6a732f6175692f616e696d2d63757276652f616e696d2d63757276652d6d696e2e6a73262f68746d6c2f6a732f6175692f616e696d2d656173696e672f616e696d2d656173696e672d6d696e2e6a73262f68746d6c2f6a732f6175692f616e696d2d6e6f64652d706c7567696e2f616e696d2d6e6f64652d706c7567696e2d6d696e2e6a73262f68746d6c2f6a732f6175692f616e696d2d7363726f6c6c2f616e696d2d7363726f6c6c2d6d696e2e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; LFR_SESSION_STATE_20159=1610004443376" ^
+  --compressed &
+curl "https://www.pse.pl/combo/?safeargs=62726f7773657249643d6f74686572266d696e6966696572547970653d266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303735303030262f68746d6c2f6a732f6175692f7175657279737472696e672d70617273652f7175657279737472696e672d70617273652d6d696e2e6a73262f68746d6c2f6a732f6175692f6175692d75726c2f6175692d75726c2d6d696e2e6a73" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: */*" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: script" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1609834713^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; ROUTEID=.lifereay1; _pk_id.1.c235=5b4b37a0823f275c.1603882963.25.1609840169.1609834713.; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; LFR_SESSION_STATE_20159=1610004443376" ^
+  --compressed &
+curl "https://www.pse.pl/piwik/piwik.js" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/piwik/piwik.php?action_name=Wielko^%^C5^%^9Bci^%^20podstawowe^%^20-^%^20PSE^&idsite=1^&rec=1^&r=585433^&h=8^&m=27^&s=23^&url=https^%^3A^%^2F^%^2Fwww.pse.pl^%^2Fdane-systemowe^%^2Fplany-pracy-kse^%^2Fplan-koordynacyjny-5-letni^%^2Fwielkosci-podstawowe^&urlref=https^%^3A^%^2F^%^2Fwww.pse.pl^%^2Fdane-systemowe^%^2Fplany-pracy-kse^%^2Fplan-koordynacyjny-5-letni^%^2Fwielkosci-podstawowe^&_id=5b4b37a0823f275c^&_idts=1603882963^&_idvc=26^&_idn=0^&_refts=1610004444^&_viewts=1610004444^&_ref=https^%^3A^%^2F^%^2Fwww.google.com^%^2F^&send_image=1^&pdf=1^&qt=0^&realp=0^&wma=0^&dir=0^&fla=0^&java=0^&gears=0^&ag=0^&cookie=1^&res=1920x1080^&gt_ms=147" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: no-cors" ^
+  -H "Sec-Fetch-Dest: image" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; LFR_SESSION_STATE_20159=1610004443376; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; _pk_ses.1.c235=*" ^
+  --compressed &
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe?safeargs=705f705f69643d566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c26705f705f6c6966656379636c653d3226705f705f73746174653d6e6f726d616c26705f705f6d6f64653d7669657726705f705f7265736f757263655f69643d67656e6572696355524c26705f705f63616368656162696c6974793d63616368654c6576656c5061676526705f705f636f6c5f69643d636f6c756d6e2d3226705f705f636f6c5f706f733d3126705f705f636f6c5f636f756e743d33265f566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c5f5f5f766973696f5f706172616d733d67656e65726963^&__report=PL_PD_GO_BILANS^&resourceID=parametersURL" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; LFR_SESSION_STATE_20159=1610004443376; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; _pk_ses.1.c235=*" ^
+  --data-raw "safeargs_data=5f5f64617461766973696f5265736f7572636549443d706172616d657465727355524c" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/images/ui-icons_999999_256x240.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.theme.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/visioneo-portlet/resources/css/theme/images/ui-bg_glass_100_f8f8f8_1x400.png" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Referer: https://www.pse.pl/visioneo-portlet/resources/css/theme/jquery-ui.theme.4.0.0.0.css?safeargs=62726f7773657249643d6f74686572267468656d6549643d707365696e7445726e65745f5741525f707365696e7445726e65747468656d65266d696e6966696572547970653d637373266c616e677561676549643d706c5f504c26623d3632303426743d31363039393731303737303030" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  --compressed &
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe?safeargs=705f705f69643d566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c26705f705f6c6966656379636c653d3226705f705f73746174653d6e6f726d616c26705f705f6d6f64653d7669657726705f705f7265736f757263655f69643d67656e6572696355524c26705f705f63616368656162696c6974793d63616368654c6576656c5061676526705f705f636f6c5f69643d636f6c756d6e2d3226705f705f636f6c5f706f733d3126705f705f636f6c5f636f756e743d33265f566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c5f5f5f766973696f5f706172616d733d67656e65726963" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; LFR_SESSION_STATE_20159=1610004443376; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; _pk_ses.1.c235=*" ^
+  --data-raw "safeargs_data=5f5f7265706f72743d504c5f50445f474f5f42494c414e53265f5f63616c6c547970653d7026646174615f6f643d323032312d30312d303426646174615f646f3d323032312d30312d3130265f737667737570706f72743d74727565267265736f7572636549443d646f63756d656e7455524c" ^
+  --compressed &
+curl "https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe?safeargs=705f705f69643d566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c26705f705f6c6966656379636c653d3226705f705f73746174653d6e6f726d616c26705f705f6d6f64653d7669657726705f705f7265736f757263655f69643d67656e6572696355524c26705f705f63616368656162696c6974793d63616368654c6576656c5061676526705f705f636f6c5f69643d636f6c756d6e2d3226705f705f636f6c5f706f733d3126705f705f636f6c5f636f756e743d33265f566973696f506f72746c65745f5741525f766973696f6e656f706f72746c65745f494e5354414e43455f344e637a52414d425661476c5f5f5f766973696f5f706172616d733d67656e65726963" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; LFR_SESSION_STATE_20159=1610004443376; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; _pk_ses.1.c235=*" ^
+  --data-raw "safeargs_data=5f5f7265706f72743d504c5f50445f474f5f42494c414e53265f5f63616c6c547970653d7026646174615f6f643d323032312d30312d303426646174615f646f3d323032312d30312d3130265f737667737570706f72743d74727565267265736f7572636549443d72656e646572696e6755524c265f5f706167654e756d6265723d31265f5f626174636849443d31373664626265356136302d31" ^
+  --compressed &
+curl "https://www.pse.pl/c/portal/extend_session" ^
+  -X "POST" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Length: 0" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; LFR_SESSION_STATE_20159=1610006252943" ^
+  --compressed &
+curl "https://www.pse.pl/c/portal/extend_session" ^
+  -X "POST" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Length: 0" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; JSESSIONID=2CB8924250B541E81D4AEF313CDCBC7F.liferay1; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; LFR_SESSION_STATE_20159=1610008073173" ^
+  --compressed &
+curl "https://www.pse.pl/c/portal/extend_session" ^
+  -X "POST" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Length: 0" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; JSESSIONID=578C161706E3C2D5C87447904283C29E.liferay1; LFR_SESSION_STATE_20159=1610009880880" ^
+  --compressed &
+curl "https://www.pse.pl/c/portal/extend_session" ^
+  -X "POST" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Length: 0" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; JSESSIONID=2726A29F1BEE1BE8C584D107B67DBA38.liferay1; LFR_SESSION_STATE_20159=1610011688991" ^
+  --compressed &
+curl "https://www.pse.pl/c/portal/extend_session" ^
+  -X "POST" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Length: 0" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"87^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"87^\^"" ^
+  -H "Accept: */*" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" ^
+  -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "Origin: https://www.pse.pl" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.pse.pl/dane-systemowe/plany-pracy-kse/plan-koordynacyjny-5-letni/wielkosci-podstawowe" ^
+  -H "Accept-Language: pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: eu_cookieClosed=true; ROUTEID=.lifereay1; _pk_ref.1.c235=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1610004444^%^2C^%^22https^%^3A^%^2F^%^2Fwww.google.com^%^2F^%^22^%^5D; _pk_id.1.c235=5b4b37a0823f275c.1603882963.26.1610004444.1610004444.; JSESSIONID=A2A3551AA71230067E7FB24554D84E9D.liferay1; LFR_SESSION_STATE_20159=1610013498012" ^
+  --compressed
