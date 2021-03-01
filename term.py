@@ -23,7 +23,7 @@ holidays = [
 holidays = list(map(lambda singleDate: datetime.strptime(singleDate, '%d-%m-%Y').date().strftime('%Y-%m-%d'), holidays))
 
 startDay = 1
-endDay = 5
+endDay = 28
 tradeMonth = 2
 tradeYear = 2021
 

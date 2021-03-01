@@ -3,8 +3,8 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta
 
-startDay = 11
-endDay = 24
+startDay = 25
+endDay = 28
 tradeMonth = 2
 tradeYear = 2021
 
