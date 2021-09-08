@@ -39,6 +39,7 @@ def termPrice(startDay, endDay, tradeMonth, tradeYear):
         conv_date = datetime.strptime(tradeDate, '%d-%m-%Y').date()
         if conv_date.isoweekday() in range(1, 6) and str(conv_date) not in holidays:
             my_page = requests.get(f'https://tge.pl/energia-elektryczna-otf?dateShow={tradeDate}&dateAction=prev')
+            # print(f'https://tge.pl/energia-elektryczna-otf?dateShow={tradeDate}&dateAction=prev')
             soup = BeautifulSoup(my_page.content, 'html.parser')
             new = soup.find_all("tr", class_='period-')
             data_set = []
@@ -54,11 +55,11 @@ def termPrice(startDay, endDay, tradeMonth, tradeYear):
                 "Number of transactions",
                 "Total number of open interests"
             ]
-
             for element in new:
                 new_array = [
                     element.select("td", class_='footable-visible footable-first-column col-instrument_name')[
                         0].get_text()]
+                # print(new_array)
                 for key in keys:
                     textVal = element.select(f"td:nth-child({keys.index(key) + 3})")[0].get_text().replace(",", ".")
                     if textVal != "-":
