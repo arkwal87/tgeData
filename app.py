@@ -3,9 +3,9 @@ from term import holidays, termPrice
 from tgeBASE import tgeBasePrice
 from gas import tgeGasPrice
 
-startDay = 30
-endDay = 31
-tradeMonth = 7
+startDay = 1
+endDay = 30
+tradeMonth = 9
 tradeYear = 2021
 
 tgePrice(startDay, endDay, tradeMonth, tradeYear)

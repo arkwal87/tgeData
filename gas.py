@@ -27,9 +27,9 @@ def tgeGasPrice(startDay, endDay, tradeMonth, tradeYear):
 
     df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/tgeGas/{tradeMonth}-{tradeYear}_tgeGasDA.xlsx")
 
-startDay = 1
-endDay = 31
-tradeMonth = 7
-tradeYear = 2021
-
-tgeGasPrice(startDay, endDay, tradeMonth, tradeYear)
+# startDay = 1
+# endDay = 31
+# tradeMonth = 7
+# tradeYear = 2021
+#
+# tgeGasPrice(startDay, endDay, tradeMonth, tradeYear)
