@@ -4,22 +4,15 @@ import pandas as pd
 import os
 from datetime import datetime, timedelta
 
-holidays = [
-    "25-12-2020",
-    "26-12-2020",
-    "01-01-2021",
-    "06-01-2021",
-    "05-04-2021",
-    "06-04-2021",
-    "01-05-2021",
-    "03-05-2021",
-    "03-06-2021",
-    "15-08-2021",
-    "01-11-2021",
-    "11-11-2021",
-    "25-12-2021",
-    "26-12-2021"
-]
+from app import winPath
+
+holidays = ["25-12-2020", "26-12-2020",
+            "01-01-2021", "06-01-2021", "05-04-2021", "06-04-2021", "01-05-2021", "03-05-2021", "03-06-2021",
+            "15-08-2021", "01-11-2021", "11-11-2021", "25-12-2021", "26-12-2021",
+            "06-01-2022", "18-04-2022", "03-05-2022", "16-06-2022", "15-08-2022", "01-11-2022", "11-11-2022",
+            "26-12-2022",
+
+            ]
 
 holidays = list(map(lambda singleDate: datetime.strptime(singleDate, '%d-%m-%Y').date().strftime('%Y-%m-%d'), holidays))
 
@@ -71,7 +64,7 @@ def termPrice(startDay, endDay, tradeMonth, tradeYear):
             df.columns = [key for key in keys]
             df.index.name = tradeDate
             print(conv_date)
-            df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/FW/{conv_date}_FW.xlsx")
+            df.to_excel(f"{winPath}/FW/{conv_date}_FW.xlsx")
 
 
 def termGasPrice(startDay, endDay, tradeMonth, tradeYear):
@@ -116,7 +109,6 @@ def termGasPrice(startDay, endDay, tradeMonth, tradeYear):
             df.columns = [key for key in keys]
             df.index.name = tradeDate
             print(conv_date)
-            df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/gasFW/gas_{conv_date}_FW.xlsx")
+            df.to_excel(f"{winPath}/gasFW/gas_{conv_date}_FW.xlsx")
 
-
-termGasPrice(startDay, endDay, tradeMonth, tradeYear)
+# termGasPrice(startDay, endDay, tradeMonth, tradeYear)

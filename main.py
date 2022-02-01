@@ -4,6 +4,8 @@ import os
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 
+from app import winPath
+
 startDay = 17
 endDay = 20
 tradeMonth = 3
@@ -22,6 +24,8 @@ def tgePrice(startDay, endDay, tradeMonth, tradeYear):
         my_page = requests.get(f"https://tge.pl/energia-elektryczna-rdn?dateShow={dateURL}&dateAction=prev")
         soup = BeautifulSoup(my_page.content, 'html.parser')
 
+        # print(soup)
+
         day = []
 
         data_set = {"fix1": [], "vol1": [], "fix2": [], "vol2": []}
@@ -31,8 +35,7 @@ def tgePrice(startDay, endDay, tradeMonth, tradeYear):
             for hour in range(1, 25):
                 new = \
                     soup.select(
-                        f"#footable_kontrakty_godzinowe > tbody > tr:nth-child({hour}) > td:nth-child({element})")[
-                        0]
+                        f"#footable_kontrakty_godzinowe > tbody > tr:nth-child({hour}) > td:nth-child({element})")[0]
                 day.append(float(new.get_text().replace(",", ".")))
             data_set[date_keys[element - 2]] = day
             day = []
@@ -44,4 +47,4 @@ def tgePrice(startDay, endDay, tradeMonth, tradeYear):
         print(dateDelivery)
         df.index.name = dateDelivery
         df.columns = [i for i in range(1, 25)]
-        df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/tge/{dateDelivery}_tge.xlsx")
+        df.to_excel(f"{winPath}/tge/{dateDelivery}_tge.xlsx")

@@ -4,6 +4,8 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta
 
+from app import winPath
+
 
 def tgeGasPrice(startDay, endDay, tradeMonth, tradeYear):
     data_set = {"date": [], "price": []}
@@ -25,7 +27,7 @@ def tgeGasPrice(startDay, endDay, tradeMonth, tradeYear):
         # print(data_set)
         df = pd.DataFrame(data=data_set).set_index("date")
 
-    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/tgeGas/{tradeMonth}-{tradeYear}_tgeGasDA.xlsx")
+    df.to_excel(f"{winPath}/tgeGas/{tradeMonth}-{tradeYear}_tgeGasDA.xlsx")
 
 # startDay = 1
 # endDay = 31
