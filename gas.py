@@ -24,14 +24,6 @@ def tgeGasPrice(startDay, endDay, tradeMonth, tradeYear):
         data_set["date"].append(dateDelivery.strftime("%d-%m-%Y"))
         data_set["price"].append(float(soup.find_all("td", class_="footable-visible")[1].get_text().replace(",", ".")))
 
-        # print(data_set)
         df = pd.DataFrame(data=data_set).set_index("date")
 
     df.to_excel(f"{winPath}/tgeGas/{tradeMonth}-{tradeYear}_tgeGasDA.xlsx")
-
-# startDay = 1
-# endDay = 31
-# tradeMonth = 7
-# tradeYear = 2021
-#
-# tgeGasPrice(startDay, endDay, tradeMonth, tradeYear)

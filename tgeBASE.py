@@ -1,4 +1,3 @@
-import os
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -18,11 +17,7 @@ def tgeBasePrice(startDay, endDay, tradeMonth, tradeYear):
 
         my_page = requests.get(f"https://tge.pl/energia-elektryczna-rdn-tge-base?date_start={dateURL}&iframe=1")
         soup = BeautifulSoup(my_page.content, 'html.parser')
-
-        day = []
-
         data_set = {"price": [], "vol": []}
-        date_keys = ["price", "vol"]
 
         for h in range(4, 28):
             data_set["price"].append(float(soup.find_all("tr")[h].find_all("td")[1].get_text().replace(",", ".")))

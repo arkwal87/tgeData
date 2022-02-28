@@ -1,7 +1,7 @@
 import os
 
 from main import tgePrice
-from term import holidays, termPrice, termGasPrice
+from term import termPrice, termGasPrice
 from tgeBASE import tgeBasePrice
 from gas import tgeGasPrice
 
