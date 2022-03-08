@@ -5,11 +5,9 @@ from term import termPrice, termGasPrice
 from tgeBASE import tgeBasePrice
 from gas import tgeGasPrice
 
-winPath = f"C:/Users/{os.environ['USERNAME']}/OneDrive/Documents/pyData"
-
 startDay = 1
-endDay = 31
-tradeMonth = 1
+endDay = 28
+tradeMonth = 2
 tradeYear = 2022
 
 tgePrice(startDay, endDay, tradeMonth, tradeYear)

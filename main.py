@@ -2,8 +2,9 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
+import os
 
-from app import winPath
+winPath = f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData"
 
 startDay = 17
 endDay = 20
@@ -23,8 +24,6 @@ def tgePrice(startDay, endDay, tradeMonth, tradeYear):
         my_page = requests.get(f"https://tge.pl/energia-elektryczna-rdn?dateShow={dateURL}&dateAction=prev")
         soup = BeautifulSoup(my_page.content, 'html.parser')
 
-        # print(soup)
-
         day = []
 
         data_set = {"fix1": [], "vol1": [], "fix2": [], "vol2": []}
@@ -32,8 +31,7 @@ def tgePrice(startDay, endDay, tradeMonth, tradeYear):
 
         for element in range(2, 6):
             for hour in range(1, 25):
-                new = \
-                    soup.select(
+                new = soup.select(
                         f"#footable_kontrakty_godzinowe > tbody > tr:nth-child({hour}) > td:nth-child({element})")[0]
                 day.append(float(new.get_text().replace(",", ".")))
             data_set[date_keys[element - 2]] = day

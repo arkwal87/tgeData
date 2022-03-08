@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta
 
-from app import winPath
+from main import winPath
 
 
 def tgeGasPrice(startDay, endDay, tradeMonth, tradeYear):

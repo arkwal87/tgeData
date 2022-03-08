@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 from datetime import datetime, timedelta
-from app import winPath
+from main import winPath
 
 
 def tgeBasePrice(startDay, endDay, tradeMonth, tradeYear):
@@ -26,4 +26,4 @@ def tgeBasePrice(startDay, endDay, tradeMonth, tradeYear):
         df.index.name = dateDelivery
         df.columns = [i for i in range(1, 25)]
         print(dateDelivery)
-        df.to_excel(f"{winPath}/{dateDelivery}_tgeBase.xlsx")
+        df.to_excel(f"{winPath}/tgeBase/{dateDelivery}_tgeBase.xlsx")

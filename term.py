@@ -1,10 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import os
 from datetime import datetime, timedelta
-
-from app import winPath
+from main import winPath
 
 holidays = [
     "25-12-2020", "26-12-2020",
