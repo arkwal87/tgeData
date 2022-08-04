@@ -58,7 +58,7 @@ def tgeCap(startDay, endDay, tradeMonth, tradeYear):
                     new = soup.select(
                         f".table-responsive.wyniki-table-mc > table > tbody > tr:nth-child({hour}) > "
                         f"td:nth-child({element-2})")[0]
-                    day.append(new.text.replace(",", ".").replace(" ", ""))
+                    day.append(float(new.text.replace(",", ".").replace(" ", "")))
             data_set[data_keys[element-2]] = day
             day = []
 
