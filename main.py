@@ -6,10 +6,10 @@ import os
 
 winPath = f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData"
 
-startDay = 17
-endDay = 20
-tradeMonth = 3
-tradeYear = 2021
+# startDay = 17
+# endDay = 20
+# tradeMonth = 3
+# tradeYear = 2021
 
 
 def tgePrice(startDay, endDay, tradeMonth, tradeYear):

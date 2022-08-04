@@ -6,8 +6,8 @@ from tgeBASE import tgeBasePrice
 from gas import tgeGasPrice
 
 startDay = 1
-endDay = 28
-tradeMonth = 2
+endDay = 31
+tradeMonth = 7
 tradeYear = 2022
 
 tgePrice(startDay, endDay, tradeMonth, tradeYear)

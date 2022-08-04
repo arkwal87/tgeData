@@ -13,10 +13,10 @@ holidays = [
 
 holidays = list(map(lambda singleDate: datetime.strptime(singleDate, '%d-%m-%Y').date().strftime('%Y-%m-%d'), holidays))
 
-startDay = 15
-endDay = 16
-tradeMonth = 11
-tradeYear = 2021
+startDay = 1
+endDay = 31
+tradeMonth = 7
+tradeYear = 2022
 
 
 def termPrice(startDay, endDay, tradeMonth, tradeYear):
