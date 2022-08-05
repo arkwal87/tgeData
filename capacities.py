@@ -26,14 +26,6 @@ def tgeCap(startDay, endDay, tradeMonth, tradeYear):
         )
         soup = BeautifulSoup(my_page.content, 'html.parser')
 
-        # print(soup)
-        #
-        # new = soup.select(
-        #     f".table-responsive.wyniki-table-mc > table > tbody > tr:nth-child(1) > td:nth-child(2)"
-        # )[0]
-        #
-        # print(new.text.replace(" ", "").replace(",","."))
-        #
         day = []
 
         data_set = {
@@ -67,10 +59,6 @@ def tgeCap(startDay, endDay, tradeMonth, tradeYear):
 
         df = pd.DataFrame(data=data_set)
         print(df)
-        # print(dateDelivery)
-        # df.index.name = dateDelivery
-        # df.columns = [i for i in range(1, 25)]
-        # print(df.set_index(["Data", "Godzina"]))
         df.to_excel(f"{winPath}/capacities/{dateDelivery}_cap.xlsx", index=False)
 
 
