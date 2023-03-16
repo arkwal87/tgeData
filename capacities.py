@@ -7,9 +7,9 @@ import os
 winPath = f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData"
 
 startDay = 1
-endDay = 1
-tradeMonth = 7
-tradeYear = 2022
+endDay = 31
+tradeMonth = 2
+tradeYear = 2023
 
 
 def tgeCap(startDay, endDay, tradeMonth, tradeYear):

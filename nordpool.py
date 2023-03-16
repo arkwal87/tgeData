@@ -4,8 +4,9 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import pandas as pd
+import numpy as np
 
-scrap_date = "19-08-2022"
+scrap_date = "17-03-2023"
 
 
 def np_flows(scrap_date):
@@ -27,8 +28,10 @@ def np_flows(scrap_date):
         data_list.append(hour_list)
 
     df = pd.DataFrame(data_list, index=headers, columns=range(1, 25)).T
-
-    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/nordpool/{scrap_date}_flows.xlsx")
+    df["export"] = - df["PL - CZ"] - df["PL - SK"] - df["PL - DE"] - df["PL - LT"] - df["PL - SE4"]
+    df["import"] = df["CZ - PL"] + df["SK - PL"] + df["DE - PL"] + df["LT - PL"] + df["SE4 - PL"]
+    df["flow"] = df["export"] + df["import"]
+    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData/nordpool/{scrap_date}_flows.xlsx")
 
 
 def np_capacities(scrap_date):
@@ -51,7 +54,7 @@ def np_capacities(scrap_date):
 
     df = pd.DataFrame(data_list, index=headers, columns=range(1, 25)).T
     print(df)
-    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/nordpool/{scrap_date}_cap.xlsx")
+    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData/nordpool/{scrap_date}_cap.xlsx")
 
 
 def np_vol(scrap_date):
@@ -74,7 +77,7 @@ def np_vol(scrap_date):
 
     df = pd.DataFrame(data_list, index=headers, columns=range(1, 25)).T
     print(df)
-    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/nordpool/{scrap_date}_vol.xlsx")
+    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData/nordpool/{scrap_date}_vol.xlsx")
 
 
 def np_price(scrap_date):
@@ -97,7 +100,7 @@ def np_price(scrap_date):
 
     df = pd.DataFrame(data_list, index=headers, columns=range(1, 25)).T
     print(df)
-    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/Documents/pyData/nordpool/{scrap_date}_price.xlsx")
+    df.to_excel(f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData/nordpool/{scrap_date}_price.xlsx")
 
 
 np_flows(scrap_date)

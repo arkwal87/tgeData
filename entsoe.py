@@ -1,5 +1,4 @@
 import requests
-import xmltodict
 import json
 from zipfile import ZipFile
 
