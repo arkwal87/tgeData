@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 from datetime import datetime, timedelta
-
-scrap_date = "17-03-2023"
+#
+# scrap_date = "02-04-2023"
 
 def epex_pl(scrap_date):
     dateDelivery = datetime.strptime(f'{scrap_date}', '%d-%m-%Y').date()
@@ -51,5 +51,5 @@ def epex_de(scrap_date):
     df.to_excel(f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData/epex/{scrap_date}_DE.xlsx")
 
 
-epex_pl(scrap_date)
-epex_de(scrap_date)
+# epex_pl(scrap_date)
+# epex_de(scrap_date)

@@ -6,8 +6,7 @@ import json
 import pandas as pd
 import numpy as np
 
-scrap_date = "17-03-2023"
-
+# scrap_date = "02-04-2023"
 
 def np_flows(scrap_date):
     scrap_page = requests.get(
@@ -22,15 +21,16 @@ def np_flows(scrap_date):
         headers.append(soup_json['data']['Rows'][0]['Columns'][header]['Name'])
         hour_list = []
         for hour in range(24):
-            hour_list.append(float(
-                soup_json['data']['Rows'][hour]['Columns'][header]['DisplayNameOrDominatingDirection']
-                .replace(" ", "").replace(",", ".")))
+            hour_val = soup_json['data']['Rows'][hour]['Columns'][header]['DisplayNameOrDominatingDirection']
+            if hour_val != "-":
+                hour_list.append(float(hour_val.replace(" ", "").replace(",", ".")))
         data_list.append(hour_list)
 
     df = pd.DataFrame(data_list, index=headers, columns=range(1, 25)).T
-    df["export"] = - df["PL - CZ"] - df["PL - SK"] - df["PL - DE"] - df["PL - LT"] - df["PL - SE4"]
-    df["import"] = df["CZ - PL"] + df["SK - PL"] + df["DE - PL"] + df["LT - PL"] + df["SE4 - PL"]
-    df["flow"] = df["export"] + df["import"]
+    df["export"] = round(- df["PL - CZ"] - df["PL - SK"] - df["PL - DE"] - df["PL - LT"] - df["PL - SE4"], 2)
+    df["import"] = round(df["CZ - PL"] + df["SK - PL"] + df["DE - PL"] + df["LT - PL"] + df["SE4 - PL"], 2)
+    df["flow"] = round(df["export"] + df["import"], 2)
+    print(df)
     df.to_excel(f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData/nordpool/{scrap_date}_flows.xlsx")
 
 
@@ -72,7 +72,7 @@ def np_vol(scrap_date):
         for hour in range(24):
             hour_list.append(float(
                 soup_json['data']['Rows'][hour]['Columns'][header]['DisplayNameOrDominatingDirection']
-                .replace(",", ".")))
+                .replace(",", ".").replace(" ", "")))
         data_list.append(hour_list)
 
     df = pd.DataFrame(data_list, index=headers, columns=range(1, 25)).T
@@ -88,22 +88,26 @@ def np_price(scrap_date):
 
     headers = []
     data_list = []
+    h_rng = 24
 
     for header in range(1):
         headers.append(soup_json['data']['Rows'][0]['Columns'][header]['Name'])
         hour_list = []
-        for hour in range(24):
-            hour_list.append(float(
-                soup_json['data']['Rows'][hour]['Columns'][header]['DisplayNameOrDominatingDirection']
-                    .replace(",", ".")))
+        for hour in range(h_rng):
+            hour_value = soup_json['data']['Rows'][hour]['Columns'][header]['DisplayNameOrDominatingDirection']
+            if hour_value != "-":
+                hour_list.append(float(hour_value.replace(",", ".")))
+            else:
+                h_rng += 1
+            print(hour, len(hour_list))
         data_list.append(hour_list)
 
-    df = pd.DataFrame(data_list, index=headers, columns=range(1, 25)).T
+    df = pd.DataFrame(data_list, index=headers, columns=range(1, h_rng-1)).T
     print(df)
     df.to_excel(f"C:/Users/{os.environ['USERNAME']}/OneDrive/Dokumenty/pyData/nordpool/{scrap_date}_price.xlsx")
 
-
-np_flows(scrap_date)
-np_capacities(scrap_date)
-np_vol(scrap_date)
-np_price(scrap_date)
+#
+# np_flows(scrap_date)
+# np_capacities(scrap_date)
+# np_vol(scrap_date)
+# np_price(scrap_date)

@@ -20,7 +20,10 @@ def tgeBasePrice(startDay, endDay, tradeMonth, tradeYear):
         data_set = {"price": [], "vol": []}
 
         for h in range(4, 28):
-            data_set["price"].append(float(soup.find_all("tr")[h].find_all("td")[1].get_text().replace(",", ".")))
+            if "-" in soup.find_all("tr")[h].find_all("td")[1].get_text():
+                data_set["price"].append(0)
+            else:
+                data_set["price"].append(float(soup.find_all("tr")[h].find_all("td")[1].get_text().replace(",", ".")))
             data_set["vol"].append(float(soup.find_all("tr")[h].find_all("td")[2].get_text().replace(",", ".")))
         df = pd.DataFrame(data=data_set).T
         df.index.name = dateDelivery

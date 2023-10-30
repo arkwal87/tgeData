@@ -32,14 +32,20 @@ def tgePrice(startDay, endDay, tradeMonth, tradeYear):
         for element in range(2, 6):
             for hour in range(1, 25):
                 new = soup.select(
-                        f"#footable_kontrakty_godzinowe > tbody > tr:nth-child({hour}) > td:nth-child({element})")[0]
-                day.append(float(new.get_text().replace(",", ".")))
+                    f"#footable_kontrakty_godzinowe > tbody > tr:nth-child({hour}) > td:nth-child({element})")[0]
+                if "-" in new.get_text():
+                    day.append(0)
+                else:
+                    day.append(float(new.get_text().replace(",", ".")))
             data_set[date_keys[element - 2]] = day
             day = []
+
+        # print(data_set)
 
         for element in date_keys:
             print(element, data_set[element])
 
+        # print(pd.DataFrame(data=data_set))
         df = pd.DataFrame(data=data_set).T
         print(dateDelivery)
         df.index.name = dateDelivery
