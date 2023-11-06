@@ -4,7 +4,7 @@ from tgeBASE import tgeBasePrice
 from gas import tgeGasPrice
 import nordpool, epex
 
-scrap_date = "30-10-2023"
+scrap_date = "07-11-2023"
 startDay = 1
 endDay = 30
 tradeMonth = 6
