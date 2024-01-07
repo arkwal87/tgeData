@@ -95,13 +95,11 @@ def np_price(scrap_date):
         hour_list = []
         for hour in range(h_rng):
             hour_value = soup_json['data']['Rows'][hour]['Columns'][header]['DisplayNameOrDominatingDirection']
-            print(hour, hour_value)
             if hour_value != "-":
                 hour_list.append(float(hour_value.replace(",", ".")))
             else:
                 h_rng += 1
             # print(hour, len(hour_list))
-            print(h_rng)
         data_list.append(hour_list)
 
     df = pd.DataFrame(data_list, index=headers, columns=range(1, len(hour_list)+1)).T

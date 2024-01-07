@@ -18,8 +18,8 @@ def epex_pl(scrap_date):
     data_set = [[], []]
 
     for hour in range(24):
-        data_set[0].append(float(soup.select(f"tr.child > td:nth-child(3)")[hour].text))
-        data_set[1].append(float(soup.select(f"tr.child > td:nth-child(4)")[hour].text))
+        data_set[0].append(float(soup.select(f"tr.child > td:nth-child(3)")[hour].text.replace(",", "")))
+        data_set[1].append(float(soup.select(f"tr.child > td:nth-child(4)")[hour].text.replace(",", "")))
 
     headers = ["Volume", "Price"]
 

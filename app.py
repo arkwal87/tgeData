@@ -4,13 +4,14 @@ from tgeBASE import tgeBasePrice
 from gas import tgeGasPrice
 import nordpool, epex
 
-scrap_date = "07-11-2023"
-startDay = 1
-endDay = 30
-tradeMonth = 6
-tradeYear = 2023
+scrap_date = "07-01-2024"
 
-# tgePrice(startDay, endDay, tradeMonth, tradeYear)
+startDay = 1
+endDay = int(scrap_date[0:2])
+tradeMonth = 1
+tradeYear = 2024
+
+tgePrice(startDay, endDay, tradeMonth, tradeYear)
 # termPrice(startDay, endDay, tradeMonth, tradeYear)
 # termGasPrice(startDay, endDay, tradeMonth, tradeYear)
 # tgeBasePrice(startDay, endDay, tradeMonth, tradeYear)
