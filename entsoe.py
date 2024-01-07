@@ -1,11 +1,11 @@
 import requests
 import json
+import tokens
 from zipfile import ZipFile
 
 URL = 'https://transparency.entsoe.eu/api?'
 URL2 = "https://transparency.entsoe.eu/api?securityToken=ce133c4d-37a7-48b8-9d60-832173387967&documentType=A65&processType=A16&outBiddingZone_Domain=10YCZ-CEPS-----N&periodStart=201512312300&periodEnd=201612312300"
-API_TOKEN = 'ce133c4d-37a7-48b8-9d60-832173387967'
-
+API_TOKEN = tokens.ENTSOE_TOKEN
 
 def mojeZaciaganie():
     # headers = {
